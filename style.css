@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+#header{
+    background-color: black;
+    padding:30px;
+    color: rgb(117, 115, 115);
+    margin: 0;
+}
+
+.corpo{
+    background-color: rgb(235, 233, 230);
+    padding: 30px;
+}
+
+.formulario{
+    background-color: white;
+    background-image: linear-gradient(rgb(194, 191, 191),rgb(106, 122, 106));
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    padding: 50px;
+    
+    
+}
+
+#rodape{
+ margin-top:40px;
+}
+
+#clique{
+    text-decoration: none;
+    color: rgb(247, 118, 13);
+}
+
+.testmonials{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
